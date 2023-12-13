@@ -1,4 +1,4 @@
-package com.Saikumarjava;
+package com.automation.Practice;
 
 public class Loop1 {
 
@@ -8,6 +8,7 @@ public class Loop1 {
 		{
 			System.out.println(i);
 		}
+	  System.out.println(i + "is not equal");
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.Saikumarjava;
+package com.automation.Practice;
 //wap to reverse given input
 public class Reverse {
 

@@ -1,4 +1,4 @@
-package com.Saikumarjava;
+package com.automation.Practice;
 
 import java.util.Scanner;
 public class Intrest {

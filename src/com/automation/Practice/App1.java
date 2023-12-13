@@ -1,4 +1,4 @@
-package com.Saikumarjava;
+package com.automation.Practice;
 
 public class App1 {
 	String name,desg;
@@ -9,6 +9,7 @@ public class App1 {
 		desg=edesg;
 		sal=esal;
 		id=eid;
+
 	}
 	public void App1()
 	{
@@ -21,6 +22,7 @@ public class App1 {
 	}
 public static void main(String args[])
 {
+	//main method to start programm  
 	App1 d1 = new App1("Saikumar","Developer",50000,1221);
 	d1.App1();
 	App1 d2 = new App1("Anand","Manual testing",45000,1231);

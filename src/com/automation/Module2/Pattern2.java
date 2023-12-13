@@ -1,4 +1,4 @@
-package com.Module2;
+package com.automation.Module2;
 
 public class Pattern2 {
 	public static void main(String args[])

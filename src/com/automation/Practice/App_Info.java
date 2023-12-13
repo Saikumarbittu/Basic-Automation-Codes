@@ -1,4 +1,4 @@
-package com.Saikumarjava;
+package com.automation.Practice;
 
 public class App_Info {
 	public static String app(String name,String data,String purpose) //static with arguments
